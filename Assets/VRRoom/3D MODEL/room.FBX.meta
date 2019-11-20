@@ -1,0 +1,922 @@
+fileFormatVersion: 2
+guid: 6751d7cbad5887b47bd0966f14ead211
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: a001
+    100002: aaaaa030
+    100004: aaaaa031
+    100006: Circle146046
+    100008: Circle146048
+    100010: Circle146049
+    100012: Circle146050
+    100014: Circle146051
+    100016: Circle146052
+    100018: Circle146053
+    100020: Circle146054
+    100022: Circle146055
+    100024: Circle146056
+    100026: Circle146057
+    100028: Circle146058
+    100030: Cylinder01
+    100032: Cylinder03
+    100034: Group01
+    100036: Line001
+    100038: Line2062821092
+    100040: Line2062821093
+    100042: Line2062821094
+    100044: Line2062821095
+    100046: Line2062821096
+    100048: Line2062821097
+    100050: Line2062821098
+    100052: Line2062821099
+    100054: obj_01
+    100056: obj_018
+    100058: obj_019
+    100060: obj_02
+    100062: obj_03
+    100064: obj_04
+    100066: obj_05
+    100068: obj_06
+    100070: obj_07
+    100072: obj_08
+    100074: obj_09
+    100076: obj_10
+    100078: obj_11
+    100080: obj_12
+    100082: obj_13
+    100084: obj_14
+    100086: obj_15
+    100088: obj_18
+    100090: obj_19
+    100092: obj_20
+    100094: obj_21
+    100096: Rectangle001
+    100098: Rectangle002
+    100100: Rectangle003
+    100102: Rectangle004
+    100104: Rectangle032
+    100106: Rectangle033
+    100108: Rectangle082
+    100110: Rectangle14
+    100112: Rectangle2106771642
+    100114: Rectangle2106771826
+    100116: Rectangle2106771827
+    100118: Rectangle2106772504
+    100120: Rectangle2106772586
+    100122: Rectangle2106772587
+    100124: Rectangle2106772601
+    100126: Rectangle2106772602
+    100128: //RootNode
+    100130: ss010
+    100132: ss011
+    100134: "\u3000\uE813\uE811001"
+    100136: "\u3000\uE813\uE811001 1"
+    100138: "\u3000\uE813\uE811002"
+    100140: "\u3000\uE813\uE811002 1"
+    100142: "\u3000\uE813\uE811003"
+    100144: "\u3000\uE813\uE811003 1"
+    100146: "\u3000\uE813\uE811004"
+    100148: "\u3000\uE813\uE811005"
+    100150: "\u3000\uE813\uE811006"
+    100152: "\u3010\u552E\u6A21\u63A5\u56FEQ42333301\u3011059"
+    100154: "\u3010\u552E\u6A21\u63A5\u56FEQ42333301\u3011060"
+    100156: "\u5BF9\u8C61001"
+    100158: "\u5BF9\u8C61002"
+    100160: "\u5BF9\u8C611053"
+    100162: "\u7EC41986701870"
+    100164: "\u7EC42112997281"
+    100166: "\u7EC42112997423"
+    100168: "\u7EC42112998448"
+    100170: "\u7EC42112998527"
+    100172: "\u7EC42136557878"
+    100174: "\u7EC42136557879"
+    100176: "\u7EC42136557880"
+    100178: "\u7EC42136557890"
+    100180: "\u7EC43092"
+    100182: "\uE814\uE812001"
+    100184: "\uE814\uE812001 1"
+    100186: "\uE814\uE812002"
+    100188: "\uE814\uE812002 1"
+    100190: "\uE814\uE812003"
+    100192: "\uE814\uE812003 1"
+    100194: "\uE814\uE812004"
+    100196: "\uE814\uE812005"
+    100198: "\uE814\uE812006"
+    100200: Block:DFHHT
+    100202: Block:DGHDJYJHD
+    100204: Block:FDJRTSJRJ
+    100206: Block:FDSGHSDTHTH
+    100208: Block:fgdhdf
+    100210: Block:fghfth
+    100212: Block:FGHRSTHTRH
+    100214: Block:FGHSSDH
+    100216: Block:FHDFHF
+    100218: Block:FTHARTSSHT
+    100220: Block:FTHRSTHSRHT
+    100222: Block:gdhtrr
+    100224: Block:gfhfgdth
+    100226: Block:RSTHRTHHRTS
+    100228: Block:SDGRTSDG
+    100230: Block:SDRTHSRTRTH
+    100232: Block:STHSTHSHTR
+    100234: Block:STRHSRTHTHE
+    100236: Block:tfhrdtjr
+    100238: Block:tfhrdtjr 1
+    100240: Block:TFHTRHRTH
+    100242: Block:thrwhtrjh
+    100244: Block:thrwhtrjh 1
+    100246: "Layer:0--\u5BB6\u5177\u7EC6\u7EBF"
+    100248: "Layer:0--\u5BB6\u5177\u7EC6\u7EBF 1"
+    100250: "Layer:0--\u5BB6\u5177\u7EC6\u7EBF 2"
+    100252: "Layer:A\u2014\u5899\u4F53"
+    100254: "Layer:A\u2014\u6881\u4F53"
+    100256: "Layer:A\u2014\u8BBE\u5907\u7BA1\u4E3C\u3001\u4E3B\u7BA1\u7B26\u53F7"
+    100258: "Layer:A\u2014\u8F74\u7EBF\u3001\u5C3A\u5BF8"
+    100260: "Layer:A\u2014\u95E8\u7A97"
+    100262: "Layer:C\u2014\u62C6\u9664\u2014\u6587\u5B57\u8BF4\u660E"
+    100264: "Layer:D\u2014\u5730\u576A\u2014\u5206\u683C"
+    100266: "Layer:P\u2014\u5E73\u9762\u2014\u56FA\u5B9A\u5BB6\u5177(\u4E0D\u5230\u9876)"
+    100268: "Layer:P\u2014\u5E73\u9762\u2014\u56FA\u5B9A\u5BB6\u5177(\u5230\u9876)"
+    100270: "Layer:P\u2014\u5E73\u9762\u2014\u56FA\u5B9A\u5BB6\u5177(\u5230\u9876)
+      1"
+    100272: "Layer:P\u2014\u5E73\u9762\u2014\u56FA\u5B9A\u5BB6\u5177(\u5230\u9876)
+      2"
+    100274: "Layer:P\u2014\u5E73\u9762\u2014\u56FA\u5B9A\u5BB6\u5177(\u5230\u9876)
+      3"
+    100276: "Layer:P\u2014\u5E73\u9762\u2014\u56FA\u5B9A\u5BB6\u5177(\u5230\u9876)
+      4"
+    100278: "Layer:P\u2014\u5E73\u9762\u2014\u56FA\u5B9A\u5BB6\u5177(\u5230\u9876)
+      5"
+    100280: "Layer:P\u2014\u5E73\u9762\u2014\u56FA\u5B9A\u5BB6\u5177(\u5230\u9876)
+      6"
+    100282: "Layer:P\u2014\u5E73\u9762\u2014\u56FA\u5B9A\u5BB6\u5177(\u5230\u9876)
+      7"
+    100284: "Layer:P\u2014\u5E73\u9762\u2014\u6D01\u51771"
+    100286: "Layer:P\u2014\u5E73\u9762\u2014\u6D01\u51771 1"
+    100288: "Layer:P\u2014\u5E73\u9762\u2014\u6D01\u51771 2"
+    100290: "Layer:P\u2014\u5E73\u9762\u2014\u6D01\u51771 3"
+    100292: "Layer:P\u2014\u5E73\u9762\u2014\u6D01\u51771 4"
+    100294: "Layer:P\u2014\u5E73\u9762\u2014\u6D01\u51772"
+    100296: "Layer:P\u2014\u5E73\u9762\u2014\u6D01\u51772 1"
+    100298: "Layer:P\u2014\u5E73\u9762\u2014\u6D01\u51772 2"
+    100300: "Layer:P\u2014\u5E73\u9762\u2014\u706F\u5177"
+    100302: "Layer:P\u2014\u5E73\u9762\u2014\u79FB\u52A8\u5BB6\u5177"
+    100304: "Layer:P\u2014\u5E73\u9762\u2014\u79FB\u52A8\u5BB6\u5177 1"
+    100306: "Layer:P\u2014\u5E73\u9762\u2014\u79FB\u52A8\u5BB6\u5177 10"
+    100308: "Layer:P\u2014\u5E73\u9762\u2014\u79FB\u52A8\u5BB6\u5177 2"
+    100310: "Layer:P\u2014\u5E73\u9762\u2014\u79FB\u52A8\u5BB6\u5177 3"
+    100312: "Layer:P\u2014\u5E73\u9762\u2014\u79FB\u52A8\u5BB6\u5177 4"
+    100314: "Layer:P\u2014\u5E73\u9762\u2014\u79FB\u52A8\u5BB6\u5177 5"
+    100316: "Layer:P\u2014\u5E73\u9762\u2014\u79FB\u52A8\u5BB6\u5177 6"
+    100318: "Layer:P\u2014\u5E73\u9762\u2014\u79FB\u52A8\u5BB6\u5177 7"
+    100320: "Layer:P\u2014\u5E73\u9762\u2014\u79FB\u52A8\u5BB6\u5177 8"
+    100322: "Layer:P\u2014\u5E73\u9762\u2014\u79FB\u52A8\u5BB6\u5177 9"
+    100324: "Layer:P\u2014\u5E73\u9762\u2014\u88C5\u9970\u9762\u5C42\u7EBF"
+    100326: "Layer:P\u2014\u5E73\u9762\u2014\u95E8"
+    100328: "Layer:X\u2014\u65B0\u5EFA\u2014\u8F7B\u4F53\u5899"
+    100330: object77
+    100332: room
+    100334: "\u3000\uE813\uE811007"
+    100336: "\u3000\uE813\uE811008"
+    100338: "\u3000\uE813\uE811009"
+    100340: "\u3000\uE813\uE811010"
+    100342: "\u3000\uE813\uE811011"
+    100344: "\u3000\uE813\uE811012"
+    100346: "\u3000\uE813\uE811013"
+    100348: "\u5BF9\u8C61003"
+    100350: "\u7EC4001"
+    100352: "\uE814\uE812007"
+    100354: "\uE814\uE812008"
+    100356: "\uE814\uE812009"
+    100358: "\uE814\uE812010"
+    100360: "\uE814\uE812011"
+    100362: "\uE814\uE812012"
+    100364: "\uE814\uE812013"
+    100366: Frames_Exterior10
+    100368: Frames_Exterior11
+    100370: Frames_Exterior12
+    100372: Frames_Interior04
+    100374: Frames_Interior13
+    100376: Glass_Exterior04
+    100378: Glass_Exterior18
+    100380: Glass_Interior10
+    100382: Glass_Interior12
+    100384: Circle146059
+    100386: Circle146060
+    100388: Circle146061
+    100390: Circle146062
+    100392: Circle146063
+    100394: Circle146064
+    100396: Circle146065
+    100398: door1
+    100400: door2
+    100402: Floor
+    100404: kongtiao
+    100406: light
+    100408: tijiaoxian
+    100410: Top
+    100412: Top2
+    100414: TV
+    100416: Wall
+    100418: window
+    400000: a001
+    400002: aaaaa030
+    400004: aaaaa031
+    400006: Circle146046
+    400008: Circle146048
+    400010: Circle146049
+    400012: Circle146050
+    400014: Circle146051
+    400016: Circle146052
+    400018: Circle146053
+    400020: Circle146054
+    400022: Circle146055
+    400024: Circle146056
+    400026: Circle146057
+    400028: Circle146058
+    400030: Cylinder01
+    400032: Cylinder03
+    400034: Group01
+    400036: Line001
+    400038: Line2062821092
+    400040: Line2062821093
+    400042: Line2062821094
+    400044: Line2062821095
+    400046: Line2062821096
+    400048: Line2062821097
+    400050: Line2062821098
+    400052: Line2062821099
+    400054: obj_01
+    400056: obj_018
+    400058: obj_019
+    400060: obj_02
+    400062: obj_03
+    400064: obj_04
+    400066: obj_05
+    400068: obj_06
+    400070: obj_07
+    400072: obj_08
+    400074: obj_09
+    400076: obj_10
+    400078: obj_11
+    400080: obj_12
+    400082: obj_13
+    400084: obj_14
+    400086: obj_15
+    400088: obj_18
+    400090: obj_19
+    400092: obj_20
+    400094: obj_21
+    400096: Rectangle001
+    400098: Rectangle002
+    400100: Rectangle003
+    400102: Rectangle004
+    400104: Rectangle032
+    400106: Rectangle033
+    400108: Rectangle082
+    400110: Rectangle14
+    400112: Rectangle2106771642
+    400114: Rectangle2106771826
+    400116: Rectangle2106771827
+    400118: Rectangle2106772504
+    400120: Rectangle2106772586
+    400122: Rectangle2106772587
+    400124: Rectangle2106772601
+    400126: Rectangle2106772602
+    400128: //RootNode
+    400130: ss010
+    400132: ss011
+    400134: "\u3000\uE813\uE811001"
+    400136: "\u3000\uE813\uE811001 1"
+    400138: "\u3000\uE813\uE811002"
+    400140: "\u3000\uE813\uE811002 1"
+    400142: "\u3000\uE813\uE811003"
+    400144: "\u3000\uE813\uE811003 1"
+    400146: "\u3000\uE813\uE811004"
+    400148: "\u3000\uE813\uE811005"
+    400150: "\u3000\uE813\uE811006"
+    400152: "\u3010\u552E\u6A21\u63A5\u56FEQ42333301\u3011059"
+    400154: "\u3010\u552E\u6A21\u63A5\u56FEQ42333301\u3011060"
+    400156: "\u5BF9\u8C61001"
+    400158: "\u5BF9\u8C61002"
+    400160: "\u5BF9\u8C611053"
+    400162: "\u7EC41986701870"
+    400164: "\u7EC42112997281"
+    400166: "\u7EC42112997423"
+    400168: "\u7EC42112998448"
+    400170: "\u7EC42112998527"
+    400172: "\u7EC42136557878"
+    400174: "\u7EC42136557879"
+    400176: "\u7EC42136557880"
+    400178: "\u7EC42136557890"
+    400180: "\u7EC43092"
+    400182: "\uE814\uE812001"
+    400184: "\uE814\uE812001 1"
+    400186: "\uE814\uE812002"
+    400188: "\uE814\uE812002 1"
+    400190: "\uE814\uE812003"
+    400192: "\uE814\uE812003 1"
+    400194: "\uE814\uE812004"
+    400196: "\uE814\uE812005"
+    400198: "\uE814\uE812006"
+    400200: Block:DFHHT
+    400202: Block:DGHDJYJHD
+    400204: Block:FDJRTSJRJ
+    400206: Block:FDSGHSDTHTH
+    400208: Block:fgdhdf
+    400210: Block:fghfth
+    400212: Block:FGHRSTHTRH
+    400214: Block:FGHSSDH
+    400216: Block:FHDFHF
+    400218: Block:FTHARTSSHT
+    400220: Block:FTHRSTHSRHT
+    400222: Block:gdhtrr
+    400224: Block:gfhfgdth
+    400226: Block:RSTHRTHHRTS
+    400228: Block:SDGRTSDG
+    400230: Block:SDRTHSRTRTH
+    400232: Block:STHSTHSHTR
+    400234: Block:STRHSRTHTHE
+    400236: Block:tfhrdtjr
+    400238: Block:tfhrdtjr 1
+    400240: Block:TFHTRHRTH
+    400242: Block:thrwhtrjh
+    400244: Block:thrwhtrjh 1
+    400246: "Layer:0--\u5BB6\u5177\u7EC6\u7EBF"
+    400248: "Layer:0--\u5BB6\u5177\u7EC6\u7EBF 1"
+    400250: "Layer:0--\u5BB6\u5177\u7EC6\u7EBF 2"
+    400252: "Layer:A\u2014\u5899\u4F53"
+    400254: "Layer:A\u2014\u6881\u4F53"
+    400256: "Layer:A\u2014\u8BBE\u5907\u7BA1\u4E3C\u3001\u4E3B\u7BA1\u7B26\u53F7"
+    400258: "Layer:A\u2014\u8F74\u7EBF\u3001\u5C3A\u5BF8"
+    400260: "Layer:A\u2014\u95E8\u7A97"
+    400262: "Layer:C\u2014\u62C6\u9664\u2014\u6587\u5B57\u8BF4\u660E"
+    400264: "Layer:D\u2014\u5730\u576A\u2014\u5206\u683C"
+    400266: "Layer:P\u2014\u5E73\u9762\u2014\u56FA\u5B9A\u5BB6\u5177(\u4E0D\u5230\u9876)"
+    400268: "Layer:P\u2014\u5E73\u9762\u2014\u56FA\u5B9A\u5BB6\u5177(\u5230\u9876)"
+    400270: "Layer:P\u2014\u5E73\u9762\u2014\u56FA\u5B9A\u5BB6\u5177(\u5230\u9876)
+      1"
+    400272: "Layer:P\u2014\u5E73\u9762\u2014\u56FA\u5B9A\u5BB6\u5177(\u5230\u9876)
+      2"
+    400274: "Layer:P\u2014\u5E73\u9762\u2014\u56FA\u5B9A\u5BB6\u5177(\u5230\u9876)
+      3"
+    400276: "Layer:P\u2014\u5E73\u9762\u2014\u56FA\u5B9A\u5BB6\u5177(\u5230\u9876)
+      4"
+    400278: "Layer:P\u2014\u5E73\u9762\u2014\u56FA\u5B9A\u5BB6\u5177(\u5230\u9876)
+      5"
+    400280: "Layer:P\u2014\u5E73\u9762\u2014\u56FA\u5B9A\u5BB6\u5177(\u5230\u9876)
+      6"
+    400282: "Layer:P\u2014\u5E73\u9762\u2014\u56FA\u5B9A\u5BB6\u5177(\u5230\u9876)
+      7"
+    400284: "Layer:P\u2014\u5E73\u9762\u2014\u6D01\u51771"
+    400286: "Layer:P\u2014\u5E73\u9762\u2014\u6D01\u51771 1"
+    400288: "Layer:P\u2014\u5E73\u9762\u2014\u6D01\u51771 2"
+    400290: "Layer:P\u2014\u5E73\u9762\u2014\u6D01\u51771 3"
+    400292: "Layer:P\u2014\u5E73\u9762\u2014\u6D01\u51771 4"
+    400294: "Layer:P\u2014\u5E73\u9762\u2014\u6D01\u51772"
+    400296: "Layer:P\u2014\u5E73\u9762\u2014\u6D01\u51772 1"
+    400298: "Layer:P\u2014\u5E73\u9762\u2014\u6D01\u51772 2"
+    400300: "Layer:P\u2014\u5E73\u9762\u2014\u706F\u5177"
+    400302: "Layer:P\u2014\u5E73\u9762\u2014\u79FB\u52A8\u5BB6\u5177"
+    400304: "Layer:P\u2014\u5E73\u9762\u2014\u79FB\u52A8\u5BB6\u5177 1"
+    400306: "Layer:P\u2014\u5E73\u9762\u2014\u79FB\u52A8\u5BB6\u5177 10"
+    400308: "Layer:P\u2014\u5E73\u9762\u2014\u79FB\u52A8\u5BB6\u5177 2"
+    400310: "Layer:P\u2014\u5E73\u9762\u2014\u79FB\u52A8\u5BB6\u5177 3"
+    400312: "Layer:P\u2014\u5E73\u9762\u2014\u79FB\u52A8\u5BB6\u5177 4"
+    400314: "Layer:P\u2014\u5E73\u9762\u2014\u79FB\u52A8\u5BB6\u5177 5"
+    400316: "Layer:P\u2014\u5E73\u9762\u2014\u79FB\u52A8\u5BB6\u5177 6"
+    400318: "Layer:P\u2014\u5E73\u9762\u2014\u79FB\u52A8\u5BB6\u5177 7"
+    400320: "Layer:P\u2014\u5E73\u9762\u2014\u79FB\u52A8\u5BB6\u5177 8"
+    400322: "Layer:P\u2014\u5E73\u9762\u2014\u79FB\u52A8\u5BB6\u5177 9"
+    400324: "Layer:P\u2014\u5E73\u9762\u2014\u88C5\u9970\u9762\u5C42\u7EBF"
+    400326: "Layer:P\u2014\u5E73\u9762\u2014\u95E8"
+    400328: "Layer:X\u2014\u65B0\u5EFA\u2014\u8F7B\u4F53\u5899"
+    400330: object77
+    400332: room
+    400334: "\u3000\uE813\uE811007"
+    400336: "\u3000\uE813\uE811008"
+    400338: "\u3000\uE813\uE811009"
+    400340: "\u3000\uE813\uE811010"
+    400342: "\u3000\uE813\uE811011"
+    400344: "\u3000\uE813\uE811012"
+    400346: "\u3000\uE813\uE811013"
+    400348: "\u5BF9\u8C61003"
+    400350: "\u7EC4001"
+    400352: "\uE814\uE812007"
+    400354: "\uE814\uE812008"
+    400356: "\uE814\uE812009"
+    400358: "\uE814\uE812010"
+    400360: "\uE814\uE812011"
+    400362: "\uE814\uE812012"
+    400364: "\uE814\uE812013"
+    400366: Frames_Exterior10
+    400368: Frames_Exterior11
+    400370: Frames_Exterior12
+    400372: Frames_Interior04
+    400374: Frames_Interior13
+    400376: Glass_Exterior04
+    400378: Glass_Exterior18
+    400380: Glass_Interior10
+    400382: Glass_Interior12
+    400384: Circle146059
+    400386: Circle146060
+    400388: Circle146061
+    400390: Circle146062
+    400392: Circle146063
+    400394: Circle146064
+    400396: Circle146065
+    400398: door1
+    400400: door2
+    400402: Floor
+    400404: kongtiao
+    400406: light
+    400408: tijiaoxian
+    400410: Top
+    400412: Top2
+    400414: TV
+    400416: Wall
+    400418: window
+    2100000: 13 - Defaultfd
+    2100002: 01 - Default
+    2100004: 'Material #60'
+    2100006: 'Material #193'
+    2100008: 'Material #52'
+    2100010: 05 - Defaultgjfsd
+    2100012: 'Material #2147436520'
+    2100014: 08 - Default
+    2100016: 'Material #116'
+    2100018: "\u767D\u8272\u6DF7\u6CB9"
+    2100020: M1
+    2100022: 'Material #50'
+    2100024: 'Material #2142143229'
+    2100026: 02 - Defaultfhsdffbhgf
+    2100028: 'Material #2146022702'
+    2100030: 15 - Default
+    2100032: 'Material #2139098124'
+    2100034: 01 - Defaultdsf
+    2100036: 02 - Default
+    2100038: 13 - Default
+    2300000: Circle146046
+    2300002: Circle146048
+    2300004: Circle146049
+    2300006: Circle146050
+    2300008: Circle146051
+    2300010: Circle146052
+    2300012: Circle146053
+    2300014: Circle146054
+    2300016: Circle146055
+    2300018: Circle146056
+    2300020: Circle146057
+    2300022: Circle146058
+    2300024: Cylinder01
+    2300026: Cylinder03
+    2300028: Line001
+    2300030: Line2062821092
+    2300032: Line2062821093
+    2300034: Line2062821094
+    2300036: Line2062821095
+    2300038: Line2062821096
+    2300040: Line2062821097
+    2300042: Line2062821098
+    2300044: Line2062821099
+    2300046: obj_01
+    2300048: obj_018
+    2300050: obj_019
+    2300052: obj_02
+    2300054: obj_03
+    2300056: obj_04
+    2300058: obj_05
+    2300060: obj_06
+    2300062: obj_07
+    2300064: obj_08
+    2300066: obj_09
+    2300068: obj_10
+    2300070: obj_11
+    2300072: obj_12
+    2300074: obj_13
+    2300076: obj_14
+    2300078: obj_15
+    2300080: obj_18
+    2300082: obj_19
+    2300084: obj_20
+    2300086: obj_21
+    2300088: Rectangle001
+    2300090: Rectangle002
+    2300092: Rectangle003
+    2300094: Rectangle004
+    2300096: Rectangle032
+    2300098: Rectangle033
+    2300100: Rectangle082
+    2300102: Rectangle14
+    2300104: Rectangle2106771642
+    2300106: Rectangle2106771826
+    2300108: Rectangle2106771827
+    2300110: Rectangle2106772504
+    2300112: Rectangle2106772586
+    2300114: Rectangle2106772587
+    2300116: Rectangle2106772601
+    2300118: Rectangle2106772602
+    2300120: "\u3010\u552E\u6A21\u63A5\u56FEQ42333301\u3011059"
+    2300122: "\u3010\u552E\u6A21\u63A5\u56FEQ42333301\u3011060"
+    2300124: "\u5BF9\u8C61001"
+    2300126: "\u5BF9\u8C61002"
+    2300128: "\u5BF9\u8C611053"
+    2300130: "\u5BF9\u8C61003"
+    2300132: Frames_Exterior10
+    2300134: Frames_Exterior11
+    2300136: Frames_Exterior12
+    2300138: Frames_Interior04
+    2300140: Frames_Interior13
+    2300142: Glass_Exterior04
+    2300144: Glass_Exterior18
+    2300146: Glass_Interior10
+    2300148: Glass_Interior12
+    2300150: Circle146059
+    2300152: Circle146060
+    2300154: Circle146061
+    2300156: Circle146062
+    2300158: Circle146063
+    2300160: Circle146064
+    2300162: Circle146065
+    2300164: Floor
+    2300166: tijiaoxian
+    2300168: Top
+    2300170: Top2
+    2300172: Wall
+    3300000: Circle146046
+    3300002: Circle146048
+    3300004: Circle146049
+    3300006: Circle146050
+    3300008: Circle146051
+    3300010: Circle146052
+    3300012: Circle146053
+    3300014: Circle146054
+    3300016: Circle146055
+    3300018: Circle146056
+    3300020: Circle146057
+    3300022: Circle146058
+    3300024: Cylinder01
+    3300026: Cylinder03
+    3300028: Line001
+    3300030: Line2062821092
+    3300032: Line2062821093
+    3300034: Line2062821094
+    3300036: Line2062821095
+    3300038: Line2062821096
+    3300040: Line2062821097
+    3300042: Line2062821098
+    3300044: Line2062821099
+    3300046: obj_01
+    3300048: obj_018
+    3300050: obj_019
+    3300052: obj_02
+    3300054: obj_03
+    3300056: obj_04
+    3300058: obj_05
+    3300060: obj_06
+    3300062: obj_07
+    3300064: obj_08
+    3300066: obj_09
+    3300068: obj_10
+    3300070: obj_11
+    3300072: obj_12
+    3300074: obj_13
+    3300076: obj_14
+    3300078: obj_15
+    3300080: obj_18
+    3300082: obj_19
+    3300084: obj_20
+    3300086: obj_21
+    3300088: Rectangle001
+    3300090: Rectangle002
+    3300092: Rectangle003
+    3300094: Rectangle004
+    3300096: Rectangle032
+    3300098: Rectangle033
+    3300100: Rectangle082
+    3300102: Rectangle14
+    3300104: Rectangle2106771642
+    3300106: Rectangle2106771826
+    3300108: Rectangle2106771827
+    3300110: Rectangle2106772504
+    3300112: Rectangle2106772586
+    3300114: Rectangle2106772587
+    3300116: Rectangle2106772601
+    3300118: Rectangle2106772602
+    3300120: "\u3010\u552E\u6A21\u63A5\u56FEQ42333301\u3011059"
+    3300122: "\u3010\u552E\u6A21\u63A5\u56FEQ42333301\u3011060"
+    3300124: "\u5BF9\u8C61001"
+    3300126: "\u5BF9\u8C61002"
+    3300128: "\u5BF9\u8C611053"
+    3300130: "\u5BF9\u8C61003"
+    3300132: Frames_Exterior10
+    3300134: Frames_Exterior11
+    3300136: Frames_Exterior12
+    3300138: Frames_Interior04
+    3300140: Frames_Interior13
+    3300142: Glass_Exterior04
+    3300144: Glass_Exterior18
+    3300146: Glass_Interior10
+    3300148: Glass_Interior12
+    3300150: Circle146059
+    3300152: Circle146060
+    3300154: Circle146061
+    3300156: Circle146062
+    3300158: Circle146063
+    3300160: Circle146064
+    3300162: Circle146065
+    3300164: Floor
+    3300166: tijiaoxian
+    3300168: Top
+    3300170: Top2
+    3300172: Wall
+    4300000: Rectangle001
+    4300002: "\u5BF9\u8C61001"
+    4300004: Rectangle033
+    4300006: Rectangle032
+    4300008: "\u3010\u552E\u6A21\u63A5\u56FEQ42333301\u3011059"
+    4300010: Rectangle14
+    4300012: Cylinder01
+    4300014: Cylinder03
+    4300016: Rectangle2106772504
+    4300018: obj_11
+    4300020: obj_02
+    4300022: obj_03
+    4300024: obj_20
+    4300026: obj_05
+    4300028: obj_06
+    4300030: obj_07
+    4300032: obj_08
+    4300034: obj_09
+    4300036: obj_10
+    4300038: obj_21
+    4300040: obj_12
+    4300042: obj_13
+    4300044: obj_14
+    4300046: obj_15
+    4300048: obj_018
+    4300050: obj_019
+    4300052: obj_18
+    4300054: obj_19
+    4300056: obj_01
+    4300058: obj_04
+    4300060: Line2062821092
+    4300062: Rectangle2106771827
+    4300064: Rectangle2106771642
+    4300066: Rectangle082
+    4300068: Rectangle2106771826
+    4300070: "\u5BF9\u8C611053"
+    4300072: Line2062821098
+    4300074: Line2062821099
+    4300076: Rectangle002
+    4300078: Rectangle003
+    4300080: Circle146046
+    4300082: Rectangle2106772586
+    4300084: Rectangle2106772587
+    4300086: Circle146048
+    4300088: Circle146049
+    4300090: Circle146050
+    4300092: Circle146051
+    4300094: Circle146052
+    4300096: Circle146053
+    4300098: Circle146054
+    4300100: Circle146055
+    4300102: Circle146056
+    4300104: Circle146057
+    4300106: Circle146058
+    4300108: Rectangle2106772601
+    4300110: Rectangle2106772602
+    4300112: "\u3010\u552E\u6A21\u63A5\u56FEQ42333301\u3011060"
+    4300114: Rectangle004
+    4300116: "\u5BF9\u8C61002"
+    4300118: Line001
+    4300120: Line2062821093
+    4300122: Line2062821094
+    4300124: Line2062821095
+    4300126: Line2062821096
+    4300128: Line2062821097
+    4300130: "\u5BF9\u8C61003"
+    4300132: Glass_Interior12
+    4300134: Glass_Interior10
+    4300136: Glass_Exterior04
+    4300138: Frames_Interior04
+    4300140: Frames_Interior13
+    4300142: Frames_Exterior10
+    4300144: Frames_Exterior12
+    4300146: Frames_Exterior11
+    4300148: Glass_Exterior18
+    4300150: Top2
+    4300152: Top
+    4300154: Circle146060
+    4300156: Circle146059
+    4300158: Circle146061
+    4300160: Circle146062
+    4300162: Circle146065
+    4300164: Circle146064
+    4300166: Circle146063
+    4300168: Wall
+    4300170: Floor
+    4300172: tijiaoxian
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: 333404bbb62b3c542bbd68849e5475b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Default
+    second: {fileID: 2100000, guid: 2eeda43cb665896438b889b8b9049ec0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 05 - Defaultgjfsd
+    second: {fileID: 2100000, guid: b37118a6d96868542a3cafdd43c91f9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 08 - Default
+    second: {fileID: 2100000, guid: 23cc646336f759548892ab1f982e856b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 13 - Default
+    second: {fileID: 2100000, guid: 171d27d0e757b17459b6925a6b4aa36c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 13 - Defaultfd
+    second: {fileID: 2100000, guid: 15a109cab8aa0d545989e79033bd3b9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15 - Default
+    second: {fileID: 2100000, guid: 9ae0e36463b5b7e4ab807375cf5c0090, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_Exterior
+    second: {fileID: 2100000, guid: 98ff251fcccee294b848de59a43b6c16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_Exterior90
+    second: {fileID: 2100000, guid: 9d1ed004b57711144aa4273de66918b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #116'
+    second: {fileID: 2100000, guid: ed6b9f3e03edd7547b14e5675b8997f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #193'
+    second: {fileID: 2100000, guid: 636ef5c9e54abe741830e2d1b49d598d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2139098124'
+    second: {fileID: 2100000, guid: fad9661796c3acd4297ecf4081fde564, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2146022702'
+    second: {fileID: 2100000, guid: 7db8e189731b2ed4298476d2c545000b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2147436520'
+    second: {fileID: 2100000, guid: 0a6e7bd4894e9414e99effdd8e585937, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #52'
+    second: {fileID: 2100000, guid: d5b125ede58682b43bf3953ce8de576f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #60'
+    second: {fileID: 2100000, guid: 5dcab5e8a7550ba458d9198f5d59941f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metallo_blu
+    second: {fileID: 2100000, guid: 8683b2c2279fbdf47be64132e210fd51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_1
+    second: {fileID: 2100000, guid: 368a0845752fecb4f9f862c89b9aaf80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_2
+    second: {fileID: 2100000, guid: a4060d362a9850a4c8d4522381f377c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_3
+    second: {fileID: 2100000, guid: c04df0bea9cf62b41a2fb9a190f2f813, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_4
+    second: {fileID: 2100000, guid: ab591cf455ba97f41acf874a1d5f7b81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_common
+    second: {fileID: 2100000, guid: c315aaf57540f524e922c2bbc32a6220, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u767D\u8272\u6DF7\u6CB9"
+    second: {fileID: 2100000, guid: ec95bebd46bec734c9532084c43f801a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

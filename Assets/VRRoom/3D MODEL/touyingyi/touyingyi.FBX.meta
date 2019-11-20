@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: 82331a01b669e42479ad46cf4ff7ffbe
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Arch35_035_012
+    100002: Arch35_035_013
+    100004: Arch35_035_014
+    100006: Arch35_035_033
+    100008: cgaxis_electronics_10_01_002
+    100010: cgaxis_electronics_10_03_005
+    100012: Circle9969
+    100014: Circle9970
+    100016: Circle9971
+    100018: Cylinder34765
+    100020: Obj3d66-491562-38-197
+    100022: Polycom_eagleeye_III_camera002
+    100024: //RootNode
+    100026: "\u5BF9\u8C611386"
+    100028: "\u5BF9\u8C611395"
+    100030: "\u5BF9\u8C611399"
+    100032: "\u7EC42136557801"
+    100034: camera
+    100036: Circle9972
+    100038: Circle9973
+    100040: screen
+    100042: touyingyi 1
+    400000: Arch35_035_012
+    400002: Arch35_035_013
+    400004: Arch35_035_014
+    400006: Arch35_035_033
+    400008: cgaxis_electronics_10_01_002
+    400010: cgaxis_electronics_10_03_005
+    400012: Circle9969
+    400014: Circle9970
+    400016: Circle9971
+    400018: Cylinder34765
+    400020: Obj3d66-491562-38-197
+    400022: Polycom_eagleeye_III_camera002
+    400024: //RootNode
+    400026: "\u5BF9\u8C611386"
+    400028: "\u5BF9\u8C611395"
+    400030: "\u5BF9\u8C611399"
+    400032: "\u7EC42136557801"
+    400034: camera
+    400036: Circle9972
+    400038: Circle9973
+    400040: screen
+    400042: touyingyi 1
+    2100000: 'Material #2147444197'
+    2100002: Glass_ Lens
+    2100004: 'Material #38'
+    2100006: polycom
+    2100008: "\u76AE\u9762\u6C99\u53D11"
+    2100010: "\u76AE\u9762\u6C99\u53D11ww"
+    2100012: "\u753B\u5E03"
+    2100014: Mat3d66-491562-2-589
+    2100016: 'Material #2147444198'
+    2300000: Arch35_035_012
+    2300002: Arch35_035_013
+    2300004: Arch35_035_014
+    2300006: Arch35_035_033
+    2300008: cgaxis_electronics_10_01_002
+    2300010: cgaxis_electronics_10_03_005
+    2300012: Circle9969
+    2300014: Circle9970
+    2300016: Circle9971
+    2300018: Cylinder34765
+    2300020: Obj3d66-491562-38-197
+    2300022: Polycom_eagleeye_III_camera002
+    2300024: "\u5BF9\u8C611386"
+    2300026: "\u5BF9\u8C611395"
+    2300028: "\u5BF9\u8C611399"
+    2300030: Circle9972
+    2300032: Circle9973
+    3300000: Arch35_035_012
+    3300002: Arch35_035_013
+    3300004: Arch35_035_014
+    3300006: Arch35_035_033
+    3300008: cgaxis_electronics_10_01_002
+    3300010: cgaxis_electronics_10_03_005
+    3300012: Circle9969
+    3300014: Circle9970
+    3300016: Circle9971
+    3300018: Cylinder34765
+    3300020: Obj3d66-491562-38-197
+    3300022: Polycom_eagleeye_III_camera002
+    3300024: "\u5BF9\u8C611386"
+    3300026: "\u5BF9\u8C611395"
+    3300028: "\u5BF9\u8C611399"
+    3300030: Circle9972
+    3300032: Circle9973
+    4300000: Polycom_eagleeye_III_camera002
+    4300002: cgaxis_electronics_10_03_005
+    4300004: cgaxis_electronics_10_01_002
+    4300006: Arch35_035_012
+    4300008: Arch35_035_014
+    4300010: Arch35_035_013
+    4300012: Cylinder34765
+    4300014: "\u5BF9\u8C611386"
+    4300016: Arch35_035_033
+    4300018: "\u5BF9\u8C611399"
+    4300020: "\u5BF9\u8C611395"
+    4300022: Circle9970
+    4300024: Circle9971
+    4300026: Circle9969
+    4300028: Obj3d66-491562-38-197
+    4300030: Circle9973
+    4300032: Circle9972
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
