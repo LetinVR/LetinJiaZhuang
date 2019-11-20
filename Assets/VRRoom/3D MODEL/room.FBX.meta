@@ -220,6 +220,8 @@ ModelImporter:
     100414: TV
     100416: Wall
     100418: window
+    100420: Box001
+    100422: Box002
     400000: a001
     400002: aaaaa030
     400004: aaaaa031
@@ -437,6 +439,8 @@ ModelImporter:
     400414: TV
     400416: Wall
     400418: window
+    400420: Box001
+    400422: Box002
     2100000: 13 - Defaultfd
     2100002: 01 - Default
     2100004: 'Material #60'
@@ -544,6 +548,8 @@ ModelImporter:
     2300168: Top
     2300170: Top2
     2300172: Wall
+    2300174: Box001
+    2300176: Box002
     3300000: Circle146046
     3300002: Circle146048
     3300004: Circle146049
@@ -631,6 +637,8 @@ ModelImporter:
     3300168: Top
     3300170: Top2
     3300172: Wall
+    3300174: Box001
+    3300176: Box002
     4300000: Rectangle001
     4300002: "\u5BF9\u8C61001"
     4300004: Rectangle033
@@ -718,6 +726,8 @@ ModelImporter:
     4300168: Wall
     4300170: Floor
     4300172: tijiaoxian
+    4300174: Box001
+    4300176: Box002
     2186277476908879412: ImportLogs
   externalObjects:
   - first:
@@ -830,6 +840,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Wall_common
     second: {fileID: 2100000, guid: c315aaf57540f524e922c2bbc32a6220, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: guomenshi
+    second: {fileID: 2100000, guid: 6e5fdae5d5cbab34fb22b7a6071b99de, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
