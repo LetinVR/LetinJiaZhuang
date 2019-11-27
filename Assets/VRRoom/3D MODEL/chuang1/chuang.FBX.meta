@@ -15,6 +15,12 @@ ModelImporter:
     100018: xiadele_Kelly_Plaid_01
     100020: xiadele_Kelly_Plaid_02
     100022: xiadele_Object001
+    100024: Beitao_A
+    100026: Beitao_B
+    100028: chuang
+    100030: Chuangtou
+    100032: Zhentou_A
+    100034: Zhentou_B
     400000: //RootNode
     400002: xiadele_Kelly_Back
     400004: xiadele_Kelly_Base
@@ -27,6 +33,12 @@ ModelImporter:
     400018: xiadele_Kelly_Plaid_01
     400020: xiadele_Kelly_Plaid_02
     400022: xiadele_Object001
+    400024: Beitao_A
+    400026: Beitao_B
+    400028: chuang
+    400030: Chuangtou
+    400032: Zhentou_A
+    400034: Zhentou_B
     2100000: xiadele_Kelly_Pillows
     2100002: xiadele_Kelly_Velvet_Pattern
     2100004: 06 - Default
@@ -50,6 +62,11 @@ ModelImporter:
     2300016: xiadele_Kelly_Plaid_01
     2300018: xiadele_Kelly_Plaid_02
     2300020: xiadele_Object001
+    2300022: Beitao_A
+    2300024: Beitao_B
+    2300026: Chuangtou
+    2300028: Zhentou_A
+    2300030: Zhentou_B
     3300000: xiadele_Kelly_Back
     3300002: xiadele_Kelly_Base
     3300004: xiadele_Kelly_Blanket
@@ -61,6 +78,11 @@ ModelImporter:
     3300016: xiadele_Kelly_Plaid_01
     3300018: xiadele_Kelly_Plaid_02
     3300020: xiadele_Object001
+    3300022: Beitao_A
+    3300024: Beitao_B
+    3300026: Chuangtou
+    3300028: Zhentou_A
+    3300030: Zhentou_B
     4300000: xiadele_Kelly_Pillows
     4300002: xiadele_Kelly_Back
     4300004: xiadele_Object001
@@ -72,7 +94,62 @@ ModelImporter:
     4300016: xiadele_Kelly_Blanket
     4300018: xiadele_Kelly_NightTable
     4300020: xiadele_Kelly_Base
-  externalObjects: {}
+    4300022: Chuangtou
+    4300024: Beitao_A
+    4300026: Zhentou_A
+    4300028: Zhentou_B
+    4300030: Beitao_B
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 06 - Default
+    second: {fileID: 2100000, guid: f103c6734a3e00e4d9849c7fc471f84f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kelly_Blanket_Black
+    second: {fileID: 2100000, guid: bf870274d4848f146bac47ebbdfdfe42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kelly_Blanket_White
+    second: {fileID: 2100000, guid: 791f947c481fe7448a4b8896b6c5cf07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kelly_Metal
+    second: {fileID: 2100000, guid: c22ebee4a35586a4494c1023cb5d2f51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kelly_TableTop
+    second: {fileID: 2100000, guid: 216ee6896bcaaf54d8c8a46a7ac27c52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kelly_Velvet
+    second: {fileID: 2100000, guid: 60cd1c9b9ac115944a1693ba63a77fbd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: xiadele_Kelly_Pillows
+    second: {fileID: 2100000, guid: 10c90bf8c0023214d8b6302b830b74ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: xiadele_Kelly_Plaid_01Blend
+    second: {fileID: 2100000, guid: a5a722f5142a58b43b7707ea45f02986, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: xiadele_Kelly_Plaid_02
+    second: {fileID: 2100000, guid: a8e6b679babf60e4199067b5d54bc883, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: xiadele_Kelly_Velvet_Pattern
+    second: {fileID: 2100000, guid: b1063282d43bc144a9b467ad96bc17fe, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

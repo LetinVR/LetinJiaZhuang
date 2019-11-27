@@ -5,13 +5,23 @@ ModelImporter:
   fileIDToRecycleName:
     100000: w-cg.taobao.com          324
     100002: //RootNode
+    100004: zhuobu
     400000: w-cg.taobao.com          324
     400002: //RootNode
+    400004: zhuobu
     2100000: 'Material #54851'
     2300000: w-cg.taobao.com          324
+    2300002: zhuobu
     3300000: w-cg.taobao.com          324
+    3300002: zhuobu
     4300000: w-cg.taobao.com          324
-  externalObjects: {}
+    4300002: zhuobu
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #54851'
+    second: {fileID: 2100000, guid: b29fe72384ac6f4418e8172deeec6236, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
