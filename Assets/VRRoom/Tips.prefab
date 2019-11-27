@@ -567,7 +567,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 30.000002, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 3.371, y: -1.054}
+  m_AnchoredPosition: {x: 3.371, y: -0.951}
   m_SizeDelta: {x: 320, y: 128}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!223 &8194543632081029912
@@ -1239,7 +1239,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u5899\u58C13"
+  m_Text: "\u5899\u58C11"
 --- !u!1 &4882755744327202183
 GameObject:
   m_ObjectHideFlags: 0
