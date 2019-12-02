@@ -21,6 +21,9 @@ ModelImporter:
     100030: Chuangtou
     100032: Zhentou_A
     100034: Zhentou_B
+    100036: beitaoA
+    100038: beitaoB
+    100040: beizi
     400000: //RootNode
     400002: xiadele_Kelly_Back
     400004: xiadele_Kelly_Base
@@ -39,6 +42,9 @@ ModelImporter:
     400030: Chuangtou
     400032: Zhentou_A
     400034: Zhentou_B
+    400036: beitaoA
+    400038: beitaoB
+    400040: beizi
     2100000: xiadele_Kelly_Pillows
     2100002: xiadele_Kelly_Velvet_Pattern
     2100004: 06 - Default
@@ -67,6 +73,8 @@ ModelImporter:
     2300026: Chuangtou
     2300028: Zhentou_A
     2300030: Zhentou_B
+    2300032: beitaoA
+    2300034: beitaoB
     3300000: xiadele_Kelly_Back
     3300002: xiadele_Kelly_Base
     3300004: xiadele_Kelly_Blanket
@@ -83,6 +91,8 @@ ModelImporter:
     3300026: Chuangtou
     3300028: Zhentou_A
     3300030: Zhentou_B
+    3300032: beitaoA
+    3300034: beitaoB
     4300000: xiadele_Kelly_Pillows
     4300002: xiadele_Kelly_Back
     4300004: xiadele_Object001
@@ -99,12 +109,19 @@ ModelImporter:
     4300026: Zhentou_A
     4300028: Zhentou_B
     4300030: Beitao_B
+    4300032: beitaoA
+    4300034: beitaoB
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: 06 - Default
     second: {fileID: 2100000, guid: f103c6734a3e00e4d9849c7fc471f84f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brast
+    second: {fileID: 2100000, guid: 37c5019970a22ac4ab68ad01c38ec1f5, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -130,6 +147,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Kelly_Velvet
     second: {fileID: 2100000, guid: 60cd1c9b9ac115944a1693ba63a77fbd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: clotha
+    second: {fileID: 2100000, guid: 2fa370c0e8e5b0c40a8a046d1f37c4a4, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
