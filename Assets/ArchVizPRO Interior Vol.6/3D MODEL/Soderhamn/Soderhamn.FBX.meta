@@ -31,6 +31,7 @@ ModelImporter:
     2300010: Soderhamn_Pillows5
     2300012: Soderhamn_Pillows6
     2300014: ChamferBox001
+    2300016: //RootNode
     3300000: Soderhamn
     3300002: Soderhamn_Pillows1
     3300004: Soderhamn_Pillows2
@@ -39,6 +40,7 @@ ModelImporter:
     3300010: Soderhamn_Pillows5
     3300012: Soderhamn_Pillows6
     3300014: ChamferBox001
+    3300016: //RootNode
     4300000: Soderhamn
     4300002: Soderhamn_Pillows6
     4300004: Soderhamn_Pillows5
@@ -47,7 +49,12 @@ ModelImporter:
     4300010: Soderhamn_Pillows2
     4300012: Soderhamn_Pillows1
     4300014: ChamferBox001
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Soderhamn
+    second: {fileID: 2100000, guid: f5686f2908773dd43a536b938c16edef, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
