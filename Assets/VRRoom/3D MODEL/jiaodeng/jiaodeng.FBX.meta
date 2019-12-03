@@ -6,19 +6,39 @@ ModelImporter:
     100000: //RootNode
     100002: xiadele_Box006
     100004: xiadele_Line012
+    100006: xiadele_Kelly_Plaid_01
     400000: //RootNode
     400002: xiadele_Box006
     400004: xiadele_Line012
+    400006: xiadele_Kelly_Plaid_01
     2100000: "\u5E03\u6599-\u6A21\u677F-\u6D0B\u6D0B\u5F61\u4E36"
     2100002: "\u4F3D\u9A6C2.2 \u6728\u6750-\u6D0B\u6D0B\u5F61\u4E36"
     2300000: xiadele_Box006
     2300002: xiadele_Line012
+    2300004: xiadele_Kelly_Plaid_01
     3300000: xiadele_Box006
     3300002: xiadele_Line012
+    3300004: xiadele_Kelly_Plaid_01
     4300000: xiadele_Box006
     4300002: xiadele_Line012
+    4300004: xiadele_Kelly_Plaid_01
     2186277476908879412: ImportLogs
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #25'
+    second: {fileID: 2100000, guid: f97aca06826bb7348aa4ee5f20646a2c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #26'
+    second: {fileID: 2100000, guid: 98ae679304824ee41aa888360a07711c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: xiadele_Kelly_Plaid_01Blend
+    second: {fileID: 2100000, guid: d72b6cad4d1d8034e95bbee05b59ccdf, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
