@@ -139,7 +139,7 @@ MonoBehaviour:
     value: 0
   keyValue:
     overrideState: 1
-    value: 2.5
+    value: 2.22
   eyeAdaptation:
     overrideState: 0
     value: 0
@@ -232,7 +232,7 @@ MonoBehaviour:
     value: 0
   mixerRedOutBlueIn:
     overrideState: 0
-    value: 0
+    value: 61
   mixerGreenOutRedIn:
     overrideState: 0
     value: 0
