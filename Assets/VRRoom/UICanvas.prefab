@@ -1221,10 +1221,10 @@ MonoBehaviour:
   m_FillRect: {fileID: 6813803357480458729}
   m_HandleRect: {fileID: 4134540706500288107}
   m_Direction: 3
-  m_MinValue: 0
-  m_MaxValue: 1
+  m_MinValue: -20
+  m_MaxValue: 20
   m_WholeNumbers: 0
-  m_Value: 0.454
+  m_Value: 0
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -4207,6 +4207,9 @@ GameObject:
   - component: {fileID: 3419442882532538408}
   - component: {fileID: 3419442882532538411}
   - component: {fileID: 8404551057851059709}
+  - component: {fileID: 4481249265373370404}
+  - component: {fileID: 7382472198486357371}
+  - component: {fileID: 13573995816296224}
   m_Layer: 5
   m_Name: UICanvas
   m_TagString: Untagged
@@ -4310,6 +4313,75 @@ CanvasGroup:
   m_Interactable: 1
   m_BlocksRaycasts: 1
   m_IgnoreParentGroups: 0
+--- !u!114 &4481249265373370404
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3419442882532538410}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1518a5e598c7da244bc4850d3ae63354, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  clickOnPointerCollision: 0
+  autoActivateWithinDistance: 0
+--- !u!114 &7382472198486357371
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3419442882532538410}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1e0cdc54806e8a4ca5480c70814d5d3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TitleTxt: {fileID: 3419442882483522119}
+  CurrentAImg: {fileID: 2246975620007710431}
+  CurrentBImg: {fileID: 403236040277734079}
+  AllTexButtons:
+  - {fileID: 3419442881581467311}
+  - {fileID: 3419442881651925171}
+  - {fileID: 3419442882312396221}
+  - {fileID: 3419442881889475350}
+  - {fileID: 3419442882194077873}
+  - {fileID: 3419442883417930245}
+  - {fileID: 3419442882220193104}
+  - {fileID: 3419442882138223973}
+  GridButtons:
+  - {fileID: 2562798194606441368}
+  - {fileID: 1879059245823684608}
+  SizeButtons:
+  - {fileID: 6075984698490460018}
+  - {fileID: 1445861852587547780}
+  - {fileID: 7521987360841235101}
+  - {fileID: 159095589157916394}
+  AVSlider: {fileID: 6947069372072671623}
+  AHSlider: {fileID: 5244625715734930838}
+  BVSlider: {fileID: 6745561368508556255}
+  BHSlider: {fileID: 1951990723218050872}
+  OkButton: {fileID: 4242115135982769220}
+  CancelButton: {fileID: 5150192636507045825}
+--- !u!114 &13573995816296224
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3419442882532538410}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c66a27c72532177438417cc62c8fa435, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  CanvasRect: {fileID: 3419442882532538414}
+  BgRect: {fileID: 7361645765584552844}
+  BRect: {fileID: 592965429189184749}
+  ARect: {fileID: 1817971197314791582}
+  MiddleRect: {fileID: 5845922780024765671}
 --- !u!1 &3419442882563783753
 GameObject:
   m_ObjectHideFlags: 0
@@ -5411,10 +5483,10 @@ MonoBehaviour:
   m_FillRect: {fileID: 4398656767781818192}
   m_HandleRect: {fileID: 6096541738427872641}
   m_Direction: 3
-  m_MinValue: 0
-  m_MaxValue: 1
+  m_MinValue: -20
+  m_MaxValue: 20
   m_WholeNumbers: 0
-  m_Value: 0.454
+  m_Value: -0.9
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -6391,10 +6463,10 @@ MonoBehaviour:
   m_FillRect: {fileID: 8007260956350487370}
   m_HandleRect: {fileID: 4453261444186688432}
   m_Direction: 0
-  m_MinValue: 0
-  m_MaxValue: 1
+  m_MinValue: -20
+  m_MaxValue: 20
   m_WholeNumbers: 0
-  m_Value: 0.486
+  m_Value: 0
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -7068,10 +7140,10 @@ MonoBehaviour:
   m_FillRect: {fileID: 7583683005127740552}
   m_HandleRect: {fileID: 277162209206123049}
   m_Direction: 0
-  m_MinValue: 0
-  m_MaxValue: 1
+  m_MinValue: -20
+  m_MaxValue: 20
   m_WholeNumbers: 0
-  m_Value: 0.486
+  m_Value: 0
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls: []
