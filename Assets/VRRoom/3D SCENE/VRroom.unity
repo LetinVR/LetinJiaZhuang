@@ -57,9 +57,9 @@ LightmapSettings:
     serializedVersion: 10
     m_Resolution: 2
     m_BakeResolution: 50
-    m_AtlasSize: 4096
+    m_AtlasSize: 2048
     m_AO: 1
-    m_AOMaxDistance: 2
+    m_AOMaxDistance: 1.5
     m_CompAOExponent: 1
     m_CompAOExponentDirect: 0
     m_Padding: 2
@@ -5003,6 +5003,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[2]
       value: 
       objectReference: {fileID: 2100000, guid: 75ce9a46a36ca2e4c8b846d214fb9381, type: 2}
+    - target: {fileID: 2300088, guid: 82ff47e8bb121c9469d6eb592518265f, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2300090, guid: 82ff47e8bb121c9469d6eb592518265f, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
@@ -6240,7 +6244,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2103635835}
-  m_RootOrder: 13
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &802290316
 MeshRenderer:
@@ -8264,6 +8268,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: caf616e2e160462489ddb5b6215fc08e, type: 2}
+    - target: {fileID: 2300002, guid: 75ffcdcf02a0c434fb351ffa787eb93c, type: 3}
+      propertyPath: m_DynamicOccludee
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 75ffcdcf02a0c434fb351ffa787eb93c, type: 3}
 --- !u!4 &1066759443 stripped
@@ -9744,7 +9752,7 @@ MeshRenderer:
   m_StaticBatchRoot: {fileID: 0}
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 2
+  m_ScaleInLightmap: 3
   m_PreserveUVs: 1
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
@@ -15951,10 +15959,10 @@ Transform:
   - {fileID: 650658364}
   - {fileID: 1158184542}
   - {fileID: 683481339}
+  - {fileID: 802290315}
   - {fileID: 597728405}
   - {fileID: 475704757}
   - {fileID: 866461960}
-  - {fileID: 802290315}
   - {fileID: 483567885}
   - {fileID: 979649057}
   m_Father: {fileID: 986148676}
