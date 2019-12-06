@@ -130,6 +130,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: 333404bbb62b3c542bbd68849e5475b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: 06 - Default
     second: {fileID: 2100000, guid: f103c6734a3e00e4d9849c7fc471f84f, type: 2}
   - first:
@@ -241,7 +246,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
@@ -249,7 +254,7 @@ ModelImporter:
     preserveHierarchy: 0
     indexFormat: 0
     secondaryUVAngleDistortion: 8
-    secondaryUVAreaDistortion: 15.000001
+    secondaryUVAreaDistortion: 75
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1

@@ -87,7 +87,42 @@ ModelImporter:
     4300024: Object007
     4300026: Rectangle001
     4300028: Shape001
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 10 - Default
+    second: {fileID: 2100000, guid: 6a18c41071cc32e4f9e9803497771e50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 8aaf937da36644d45b2d3f503a972a02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kraska1
+    second: {fileID: 2100000, guid: 730e6d307fbd3504c8b3ec373b0131f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #7hg'
+    second: {fileID: 2100000, guid: a50a635544ea8ad4197197842e1d12e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #7hgd'
+    second: {fileID: 2100000, guid: c83f53472b80d0c48b21383e581d1b93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal
+    second: {fileID: 2100000, guid: 2e5ef41a396314f4fb89789f742b4aeb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plastik01
+    second: {fileID: 2100000, guid: ff4e55bf390ee6d45a44c478c52320a1, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -127,7 +162,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0

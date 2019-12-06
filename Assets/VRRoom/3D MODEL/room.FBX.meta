@@ -834,17 +834,17 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Wall_1
-    second: {fileID: 2100000, guid: 368a0845752fecb4f9f862c89b9aaf80, type: 2}
+    second: {fileID: 2100000, guid: b270c649abb232d4a8eba909185e0ebc, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Wall_2
-    second: {fileID: 2100000, guid: a4060d362a9850a4c8d4522381f377c9, type: 2}
+    second: {fileID: 2100000, guid: 79066168a310e95479599f87eb8fe50f, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Wall_3
-    second: {fileID: 2100000, guid: c04df0bea9cf62b41a2fb9a190f2f813, type: 2}
+    second: {fileID: 2100000, guid: 36759ccc82be02f4ead5def4ac8e35e3, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -904,7 +904,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0

@@ -108,7 +108,52 @@ ModelImporter:
     4300030: Circle9973
     4300032: Circle9972
     2186277476908879412: ImportLogs
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_ Lens
+    second: {fileID: 2100000, guid: e83fa6b0716109443bf67407a1f64dcb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat3d66-491562-2-589
+    second: {fileID: 2100000, guid: 96e7582f6e292d14ea90a87b68eafd4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2147444197'
+    second: {fileID: 2100000, guid: 52e3275c20d94d64b8cadce5a2efad7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2147444198'
+    second: {fileID: 2100000, guid: 3c1a23bca18fc804eacadfbd1130fe09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #38'
+    second: {fileID: 2100000, guid: 42b6ce5f8fd8f434a911d17037d2d471, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polycom
+    second: {fileID: 2100000, guid: a155bed3bd4107d41a9ca60266f35442, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u753B\u5E03"
+    second: {fileID: 2100000, guid: af6a3d8b15ef43246a93351143b454c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u76AE\u9762\u6C99\u53D11"
+    second: {fileID: 2100000, guid: 195cb51a95f4bbf4b9ac572af33d9e17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u76AE\u9762\u6C99\u53D11ww"
+    second: {fileID: 2100000, guid: 48c4d51a6218b8f42860f2a8e6322cff, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -148,7 +193,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0

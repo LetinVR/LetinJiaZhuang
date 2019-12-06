@@ -174,13 +174,13 @@ MonoBehaviour:
     defaultState: 1
   tonemapper:
     overrideState: 1
-    value: 2
+    value: 3
   toneCurveToeStrength:
     overrideState: 1
-    value: 0.25
+    value: 0.094
   toneCurveToeLength:
     overrideState: 1
-    value: 0.5
+    value: 0.164
   toneCurveShoulderStrength:
     overrideState: 1
     value: 1

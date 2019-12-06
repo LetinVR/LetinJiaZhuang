@@ -45,7 +45,27 @@ ModelImporter:
     4300006: Rectangle011
     4300008: Rectangle012
     4300010: Rectangle013
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u6DF7    \u6CB9"
+    second: {fileID: 2100000, guid: 5d510abf5a9c42b4082e4dbc3b2e6a54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u753B1"
+    second: {fileID: 2100000, guid: e265806534dc59349b15519bd8ca4a81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u753B2"
+    second: {fileID: 2100000, guid: 6b022175e668afb45b324dd9acd79b11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u753B3"
+    second: {fileID: 2100000, guid: f736a5c09fa7057418796d74d7e48a73, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -85,7 +105,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0

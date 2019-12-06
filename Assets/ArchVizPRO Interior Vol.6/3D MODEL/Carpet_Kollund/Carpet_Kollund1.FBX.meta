@@ -16,7 +16,17 @@ ModelImporter:
     3300002: ChamferBox080
     4300000: ChamferBox080
     4300002: bian
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: a30f17c4c5eaf534db3bcc09c5af5b54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #25'
+    second: {fileID: 2100000, guid: 18a97a43d3f2cd348be6c5117df70491, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -56,7 +66,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0

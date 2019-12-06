@@ -22,7 +22,17 @@ ModelImporter:
     4300000: Obj3d66-482533-1-115
     4300002: Obj3d66-482533-4-410
     4300004: Obj3d66-482533-2-185
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat3d66-482533-2-824
+    second: {fileID: 2100000, guid: c07ea2f7046ab564993c7542e1b57b82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat3d66-482533-6-74
+    second: {fileID: 2100000, guid: 541182e886724ef47891819494bca9c9, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -62,7 +72,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
