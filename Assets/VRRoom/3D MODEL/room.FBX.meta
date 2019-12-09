@@ -225,6 +225,7 @@ ModelImporter:
     100424: Wall1
     100426: Wall2
     100428: Wall3
+    100430: Object001
     400000: a001
     400002: aaaaa030
     400004: aaaaa031
@@ -447,6 +448,7 @@ ModelImporter:
     400424: Wall1
     400426: Wall2
     400428: Wall3
+    400430: Object001
     2100000: 13 - Defaultfd
     2100002: 01 - Default
     2100004: 'Material #60'
@@ -559,6 +561,7 @@ ModelImporter:
     2300178: Wall1
     2300180: Wall2
     2300182: Wall3
+    2300184: Object001
     3300000: Circle146046
     3300002: Circle146048
     3300004: Circle146049
@@ -651,6 +654,7 @@ ModelImporter:
     3300178: Wall1
     3300180: Wall2
     3300182: Wall3
+    3300184: Object001
     4300000: Rectangle001
     4300002: "\u5BF9\u8C61001"
     4300004: Rectangle033
@@ -743,6 +747,7 @@ ModelImporter:
     4300178: Wall2
     4300180: Wall3
     4300182: Wall1
+    4300184: Object001
     2186277476908879412: ImportLogs
   externalObjects:
   - first:
