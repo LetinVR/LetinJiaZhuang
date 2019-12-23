@@ -27,6 +27,9 @@ ModelImporter:
     100042: beizi 1
     100044: beizi_B
     100046: beizi_B001
+    100048: Beizhao_A
+    100050: Beizhao_B
+    100052: chuang 1
     400000: //RootNode
     400002: xiadele_Kelly_Back
     400004: xiadele_Kelly_Base
@@ -51,6 +54,9 @@ ModelImporter:
     400042: beizi 1
     400044: beizi_B
     400046: beizi_B001
+    400048: Beizhao_A
+    400050: Beizhao_B
+    400052: chuang 1
     2100000: xiadele_Kelly_Pillows
     2100002: xiadele_Kelly_Velvet_Pattern
     2100004: 06 - Default
@@ -84,6 +90,8 @@ ModelImporter:
     2300036: beizi 1
     2300038: beizi_B
     2300040: beizi_B001
+    2300042: Beizhao_A
+    2300044: Beizhao_B
     3300000: xiadele_Kelly_Back
     3300002: xiadele_Kelly_Base
     3300004: xiadele_Kelly_Blanket
@@ -105,6 +113,8 @@ ModelImporter:
     3300036: beizi 1
     3300038: beizi_B
     3300040: beizi_B001
+    3300042: Beizhao_A
+    3300044: Beizhao_B
     4300000: xiadele_Kelly_Pillows
     4300002: xiadele_Kelly_Back
     4300004: xiadele_Object001
@@ -126,6 +136,8 @@ ModelImporter:
     4300036: beizi_B001
     4300038: beizi
     4300040: beizi_B
+    4300042: Beizhao_A
+    4300044: Beizhao_B
   externalObjects:
   - first:
       type: UnityEngine:Material
@@ -137,6 +149,16 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: 06 - Default
     second: {fileID: 2100000, guid: f103c6734a3e00e4d9849c7fc471f84f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Beizhao_A
+    second: {fileID: 2100000, guid: dcadfada292bc76438b4bcbaa3bf2c79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Beizhao_B
+    second: {fileID: 2100000, guid: d14148ba8ca9b6d45bd61502ecd61ab3, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
